@@ -1,0 +1,21 @@
+
+#about-btn{
+    background-color: #4855fe;
+    border: 0px;
+}
+#about-btn:hover{
+    background-color: rgb(222, 195, 63);
+    color: black;
+    border:0px;
+}
+.abouthr{
+    height: 5px;
+    width: 85px;
+    color: blue;
+    background-color: #fd7e14;
+}
+p{
+    font-size: 18px;
+}
+
+
