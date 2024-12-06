@@ -18,4 +18,16 @@ p{
     font-size: 18px;
 }
 
-
+.parentdiv{
+    height: 200px;
+    width: 100%;
+    background-color: #0c0c0c;
+    display: flex;
+    justify-content: center;
+}
+.childdiv{
+    height: 120px;
+    width: 1530px;
+    background-color:white;
+    border-radius: 0px 0px 1000px 1000px;
+}
