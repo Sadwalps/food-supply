@@ -21,7 +21,7 @@ p{
 .parentdiv{
     height: 200px;
     width: 100%;
-    background-color: #0c0c0c;
+    background-color: blue;
     display: flex;
     justify-content: center;
 }
